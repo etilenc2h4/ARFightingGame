@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AR Fighting Robot.unity
+    guid: c850ee8c3b14cc8459e7e186857cf567
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 174f63d716551204bbee9575f23bb824, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 20eb3f278434b420190f1de545658a14, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 9b8525a44023248a9848c21e1dd5b002, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 59efe985156794218be1ff3ca62bc08d, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 265781acfc4b96042a4a1601b5813c18, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 54c46733090e9fa40af12629a806ef2b, type: 2}

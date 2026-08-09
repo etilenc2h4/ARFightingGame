@@ -1,0 +1,36 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# User-specific settings
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Crash Reports
+sysinfo.txt
+
+# Packages
+Packages/packages-lock.json
+
+# Auto-generated
+*.apk
+*.aab
+
+# Rider / VS
+.idea/
+.vscode/
